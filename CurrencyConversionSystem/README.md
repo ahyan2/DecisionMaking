@@ -1,0 +1,1 @@
+This program mimics a currency conversion system. It has constant conversion rates, which allow for the user to input a starting and ending currency to convert to. It also allows for a promotional rate, which uses const cast to modify our initially constant rates via modifiable copies. The final currency is specified to 2 decimal places via I/O manipulation.
