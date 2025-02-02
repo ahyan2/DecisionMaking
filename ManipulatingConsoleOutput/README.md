@@ -1,0 +1,1 @@
+This program showcases on IO manipulation. It uses initalized variables representing an ID, name, and balance to print under specified columns. The ID is padded with 0s to remain 5 digits. The balance is fixed to showcase its decimal values, and then cut to 2 decimal places via set precision. The title, Daily Report, is placed in the middle of the specified 40 unit width.
